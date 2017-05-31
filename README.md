@@ -1,2 +1,3 @@
-# imagegallery
+# Image Gallery
+
 Image Gallery
